@@ -1,0 +1,8 @@
+title: Blackpopus
+description: Black Population of US States 1790-2020
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
